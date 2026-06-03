@@ -1,4 +1,4 @@
-![Banner](assets/banner-github-1280x640.jpg)
+![Banner](banner-github-1280x640.jpg)
 ## Hi there 👋  I am IngoDuesentrieb :rocket:
 
 I started using Claude Code. Also a fan of the Draw Things app so now I am developing apps for DT.
